@@ -41,17 +41,23 @@ Probability of Passing: 1.0 (100%)
 
 ### 📊 Average Scores Bar Chart
 
-![Bar Chart](Bar_Chart.png)
+![Bar Chart]
+<img width="640" height="480" alt="Bar_Chart" src="https://github.com/user-attachments/assets/c58e43e4-eddf-42fc-9ee6-ae77111205a6" />
+
 
 ### 📉 Score Trend Visualization
 
-![Score Trend](Line_Chart.png)
+![Score Trend]
+
+<img width="640" height="480" alt="Line_Chart" src="https://github.com/user-attachments/assets/01cb5281-c2e3-4de9-9592-082c38e5eef8" />
 
 ---
 
 ## 🤖 Machine Learning Output
 
-![ML Output](ML.png)
+![ML Output]
+<img width="1135" height="118" alt="ML" src="https://github.com/user-attachments/assets/d601d1ad-8502-43a1-b820-76ea95af6c1d" />
+
 
 ### 📌 Model Results
 
@@ -90,13 +96,18 @@ http://127.0.0.1:8000
 
 ### 🧪 API Logs Example
 
-![FastAPI Logs](FastAPI.png)
+![FastAPI Logs]
+<img width="1080" height="467" alt="FastAPI" src="https://github.com/user-attachments/assets/1d9e044d-6d98-490b-9bbe-66c6a1f3e103" />
+
 
 ---
 
 ## 🧪 Testing (Pytest)
 
-![Pytest Results](Pytest.png)
+![Pytest Results]
+<img width="1175" height="390" alt="Pytest" src="https://github.com/user-attachments/assets/39312539-d5f3-4b44-a43d-0258d1515cde" />
+
+
 
 ### ✅ Test Summary
 
@@ -128,11 +139,15 @@ docker run -d -p 8000:8000 student-api
 
 ### 📦 Docker Images
 
-![Docker Images](Dockerization.png)
+![Docker Images]
+<img width="1307" height="581" alt="Dockerization" src="https://github.com/user-attachments/assets/4a1c188c-99c0-4323-b8b2-11b6c5489c60" />
+
 
 ### 📦 Running Containers
 
-![Docker Containers](Dockerization_2.png)
+![Docker Containers]
+<img width="1382" height="170" alt="Dockerization_2" src="https://github.com/user-attachments/assets/995235de-5d54-451e-89c2-2ed18ac22f60" />
+
 
 ---
 
@@ -194,13 +209,3 @@ docker run -d -p 8000:8000 student-api
 ## 👨‍💻 Author
 
 Kushagra
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repo  
-🍴 Fork it  
-📢 Share it  
