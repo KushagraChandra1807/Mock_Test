@@ -192,17 +192,6 @@ docker run -d -p 8000:8000 student-api
 * 🧪 Tested with Pytest  
 * 🐳 Fully Dockerized application  
 * 📦 Clean and modular structure  
-
----
-
-## 📬 Future Improvements
-
-* 🔐 Add authentication (JWT)
-* 🗄️ Integrate database (PostgreSQL / MongoDB)
-* ☁️ Deploy to cloud (AWS / Azure / GCP)
-* 💻 Build frontend dashboard (React)
-* 📈 Add advanced ML models
-
 ---
 
 ## 👨‍💻 Author
