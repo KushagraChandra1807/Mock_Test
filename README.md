@@ -30,6 +30,8 @@ This system helps analyze and manage student performance by:
 CSE  → 60.66  
 ECE  → 83.00  
 IT   → 68.00  
+<img width="828" height="247" alt="Analysis" src="https://github.com/user-attachments/assets/f3e1ff55-c7a3-45c3-8abf-cf9e0c85970e" />
+
 
 ### ✅ Probability of Passing
 
